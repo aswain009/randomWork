@@ -1,0 +1,26 @@
+
+.horz-navbar{
+    background-color: #de1414;
+    padding: 20px;
+    margin: 0;
+    border: 0;
+    font-size: 100%;
+    horiz-align: left;
+    display: block;
+    width: 5%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.horz-nav-link{
+    color: #000;
+    font-size: 1.2em;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 0 10px;
+    transition: all 0.3s ease;
+}
